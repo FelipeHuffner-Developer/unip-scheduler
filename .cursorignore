@@ -1,0 +1,12 @@
+# Arquivos ignorados pelo Cursor
+# Removido .env.local para permitir edição
+
+node_modules/
+.next/
+out/
+build/
+*.log
+.env
+.env.development.local
+.env.test.local
+.env.production.local 
